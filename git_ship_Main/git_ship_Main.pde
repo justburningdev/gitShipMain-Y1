@@ -2,7 +2,7 @@
 
 //crew roster
 String pilot = "Prof Kit";
-String copilot = "";
+String copilot = "Raphael";
 
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
@@ -13,7 +13,7 @@ boolean sensors = false; //turns on sensors
 boolean parkingBrake = true;
 boolean shields = false; //turns on shields
 
-boolean redAlert = false; //turns on red alert
+boolean redAlert = true; //turns on red alert
 
 // End of variables to mess with in Basic Training
 
